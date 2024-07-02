@@ -2,7 +2,7 @@
 
 ## 💻Project Demo
  ### View Our Report 
-<a href="https://github.com/SaiNivedh26/Hackathon-June-2024/blob/main/dekut.pdf">
+<a href="https://github.com/thespectacular314/DeKut-Hackathon-2024/blob/main/dekut.pdf">
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/PDF_file_icon.svg/833px-PDF_file_icon.svg.png" alt="PDF" width="50" height="50">
 </a>
 
