@@ -1,15 +1,24 @@
 # 🖐️🤘ACCESSIBLE AI : Digital content to sign language converter
 
 ## 💻Project Demo
- ### View Our Report 
+ ### View Our Detailed Presentation 
 <a href="https://github.com/thespectacular314/DeKut-Hackathon-2024/blob/main/dekut.pdf">
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/PDF_file_icon.svg/833px-PDF_file_icon.svg.png" alt="PDF" width="50" height="50">
 </a>
 
-Before diving into the details of the process, take a moment to watch a demo video showcasing our project in action.
+<br>
+<br>
 
-[![Watch the video](https://i.ytimg.com/an_webp/B29McIvbwd4/mqdefault_6s.webp?du=3000&sqp=COjhiLQG&rs=AOn4CLCX8fLm1cB_SXPWT4PIcs2UHOry_A)](https://www.youtube.com/watch?v=66Agpkoixko)
+> ### Before diving into the details of the process, take a moment to watch a demo video showcasing our project in action. Click the below Image
 
+<br>
+
+
+
+[![Click here to view Demonstration video](https://github.com/thespectacular314/DeKut-Hackathon-2024/assets/142657686/8793c02f-d56f-4fe7-820d-95ea0382b1f2)](https://www.youtube.com/watch?embeds_referring_euri=https%3A%2F%2Fdevpost.com%2F&source_ve_path=Mjg2NjQsMTY0NTAz&feature=emb_share&v=dodpGWrL0Dg)
+
+<br>
+<br>
 
 ## 🔎Project Overview
 The Digital Content to Sign Language Converter is a comprehensive tool that converts various forms of Digital media (YouTube videos, local videos, audio files, and text) into sign language videos. This project leverages several libraries and APIs to process and translate spoken or written content into Indian Sign Language (ISL) syntax, creating videos that can aid in communication for the deaf and hard-of-hearing community.
